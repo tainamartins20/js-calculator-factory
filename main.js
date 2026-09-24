@@ -53,12 +53,12 @@ function criaCalculadora() {
                     this.clearDisplay();
                 }
 
-                // CORREÇÃO 1: Aqui estava 'realizaConta', o correto é 'apagaUm'
+                
                 if(el.classList.contains('btn-del')) {
                     this.apagaUm();
                 }
 
-                // CORREÇÃO EXTRA: Faltava o botão de igual (=) para calcular!
+               
                 if(el.classList.contains('btn-eq')) {
                     this.realizaConta();
                 }
@@ -71,6 +71,6 @@ function criaCalculadora() {
     };
 }
 
-// CORREÇÃO 2: Precisamos guardar o objeto numa variável e chamar o inicia()
+
 const calculadora = criaCalculadora();
 calculadora.inicia();
