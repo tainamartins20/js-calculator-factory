@@ -3,8 +3,8 @@
 Projeto desenvolvido para praticar e consolidar conceitos fundamentais e intermediários de **JavaScript moderno (ES6+)**, com foco em lógica de programação e estruturação de código.
 
 ## 🔗 Acesso ao Projeto
-Você pode testar a calculadora funcionando diretamente no navegador clicando no link abaixo:
-👉 **[Acessar Calculadora Online]()**
+Você pode testar a calculadora funcionando diretamente no navegador clicando no link:
+👉 **[Acessar Calculadora Online](https://tainamartins20.github.io/js-calculator-factory/)**
 
 ## 🚀 Tecnologias Utilizadas
 
